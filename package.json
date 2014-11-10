@@ -1,0 +1,23 @@
+{
+  "name": "videojs-adaptive",
+  "version": "0.0.0",
+  "description": "Building support for adaptive streaming video formats into video.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/videojs/videojs-adaptive.git"
+  },
+  "keywords": [
+    "dash",
+    "hls"
+  ],
+  "author": "Brightcove, Inc.",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/videojs/videojs-adaptive/issues"
+  },
+  "homepage": "https://github.com/videojs/videojs-adaptive"
+}
